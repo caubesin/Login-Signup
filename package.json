@@ -6,7 +6,7 @@
     "npm": "6.x"
   },
   "description": "",
-  "main": "db.js",
+  "main": "index.js",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.19.0",
